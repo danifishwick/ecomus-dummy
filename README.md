@@ -5,4 +5,4 @@ Fictional Ecomus development repo to test CI pipelines
 
 - First edit and commit
 - Second edit and commit
-
+- Third edit and commit
